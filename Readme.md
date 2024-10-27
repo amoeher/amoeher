@@ -40,7 +40,7 @@
 ### 🔥 Streak Stats
 <p align="center">
 	<img  style="background:#1a1b27;" src="https://files.gamebanana.com/img/ico/sprays/5b2e2262aafd2.png" alt="sticker" width="200" heigth="200"/>
-	<img src="https://streak-stats.demolab.com?user=PasanSilva99&theme=transparent&hide_border=true&border_radius=10&mode=weekly" alt="Yep, It failed to load for some reason, it was meant to be my streak status ^.^"/> 
+	<img src="https://streak-stats.demolab.com?user=amoeher&theme=transparent&hide_border=true&border_radius=10&mode=weekly" alt="Yep, It failed to load for some reason, it was meant to be my streak status ^.^"/> 
 </p>
 
 <br>
@@ -57,7 +57,7 @@
 <p align="center">
 	<a href="https://github.com/anuraghazra/github-readme-stats">
 		<img alt="PasanSilva99's Github Stats" 
-		     src="https://github-readme-stats-sigma-five.vercel.app/api?username=PasanSilva99&show_icons=true&count_private=true&theme=algolia&hide_border=true" 
+		     src="https://github-readme-stats-sigma-five.vercel.app/api?username=amoeher&show_icons=true&count_private=true&theme=algolia&hide_border=true" 
 		     height="192px"/>
 	</a>
 	&nbsp;&nbsp;&nbsp;
@@ -66,7 +66,7 @@
 	<br>
 	<img src='https://i.pinimg.com/originals/69/1a/78/691a78b4611d3d92bd8877b369cc075f.png' width=180 heigth=180 />
 	&nbsp;&nbsp;&nbsp;
-	<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=PasanSilva99&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true" 
+	<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=amoeher&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true" 
 	     alt="PasanSilva99" 
 	     height="192px"/>
 	<br>
@@ -74,7 +74,7 @@
 </p>
 <br>
 <p align="center">
-	<img src="https://count.getloli.com/get/@:PasanSilva99" alt="They are taking a break..." height="150px" />
+	<img src="https://count.getloli.com/get/@:amoeher" alt="They are taking a break..." height="150px" />
 	<br>
 	<i>They saw that you are here and they will count it (*/ω＼*)</i>
 </p>
@@ -84,7 +84,7 @@
 
 <p align="center"> 
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
-		<img src="https://github-profile-trophy.vercel.app/?username=PasanSilva99&margin-w=15&margin-h=15&theme=discord" alt="PasanSilva99" />
+		<img src="https://github-profile-trophy.vercel.app/?username=amoeher&margin-w=15&margin-h=15&theme=discord" alt="Amoeher" />
 	</a>
 </p>
 
