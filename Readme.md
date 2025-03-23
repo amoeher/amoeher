@@ -2,7 +2,7 @@
 
 <p align=center>
 	<a href='https://discord.com/users/617690320276160512' target="_blank">
-		<img src='https://lanyard.kyrie25.me/api/617690320276160512?waveColor=A018EA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square&&idleMessage=Probably%20doing%20something%20else..' align="right"/>
+		<img src='https://lanyard-profile-readme.vercel.app/api/617690320276160512?theme=light&bg=77b3fe&waveColor=A018EA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square&&idleMessage=Probably%20doing%20something%20else..' align="right"/>
 	</a>
 	<p align="left">Hey there!, Im Amoeher. Got any interesting projects on somthing awesome? I'm excited to hear about it, Let's make an impact together! Yea, I decided to change everything to my Amoeher Profile. (^^ゞ</p>  
 </p>
