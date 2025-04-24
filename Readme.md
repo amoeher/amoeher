@@ -74,7 +74,7 @@
 </p>
 <br>
 <p align="center">
-	<img src="https://count.getloli.com/get/@:amoeher" alt="They are taking a break..." height="150px" />
+	<img src="https://count.getloli.com/@amoeher?name=amoeher&theme=gelbooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="They are taking a break..." height="150px" />
 	<br>
 	<i>They saw that you are here and they will count it (*/ω＼*)</i>
 </p>
