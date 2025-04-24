@@ -40,7 +40,7 @@
 ### 🔥 Streak Stats
 <p align="center">
 	<img  style="background:#1a1b27;" src="https://files.gamebanana.com/img/ico/sprays/5b2e2262aafd2.png" alt="sticker" width="200" heigth="200"/>
-	<img src="https://streak-stats.demolab.com?user=amoeher&theme=transparent&hide_border=true&border_radius=10&mode=weekly" alt="Yep, It failed to load for some reason, it was meant to be my streak status ^.^"/> 
+	<img src="https://streak-stats.demolab.com?user=amoeher&theme=transparent" alt="Yep, It failed to load for some reason, it was meant to be my streak status ^.^"/> 
 </p>
 
 <br>
