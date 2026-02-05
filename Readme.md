@@ -40,7 +40,7 @@
 ### 🔥 Streak Stats
 <p align="center">
 	<img  style="background:#1a1b27;" src="https://files.gamebanana.com/img/ico/sprays/5b2e2262aafd2.png" alt="sticker" width="200" heigth="200"/>
-	<img src="https://streak-stats.demolab.com?user=amoeher&theme=transparent" alt="Yep, It failed to load for some reason, it was meant to be my streak status ^.^"/> 
+	<img src="https://github-readme-streak-stats-vert-sigma.vercel.app?user=amoeher&theme=transparent&hide_border=true&mode=weekly" alt="Yep, It failed to load for some reason, it was meant to be my streak status ^.^"/> 
 </p>
 
 <br>
@@ -84,7 +84,7 @@
 
 <p align="center"> 
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
-		<img src="https://github-profile-trophy.vercel.app/?username=amoeher&margin-w=15&margin-h=15&theme=discord" alt="Amoeher" />
+		<img src="https://github-profile-trophy-tawny.vercel.app/?username=amoeher&margin-w=15&margin-h=15&theme=discord" alt="Amoeher" />
 	</a>
 </p>
 
