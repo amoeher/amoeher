@@ -11,6 +11,7 @@
 - 💼 Connect Discord: [Amoherom](https://discord.gg/QCwVk9RyWQ).
 - ✉️ Feeling Professional?: [Email](amoeher@gmail.com).
 
+   <a href="https://codetime.dev"><img alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=for-the-badge&color=abc7fd&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D33896%26label_color%3Dffb9c1"></a>
 <br>
 <br>
 
@@ -19,7 +20,6 @@
 	<img src='https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white'/>
 	<img src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white'/>
 	<img src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white'/>
-	<img src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white'/>
 	<img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'/>
 	<img src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'/>
 	<img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white'/>
@@ -27,13 +27,11 @@
 	<img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white'/>
 	<img src='https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white'/>
 	<img src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white'/>
-	<img src='https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white'/>
 	<img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'/>
 	<img src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white'/>
 	<img src='https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white'/>
 	<img src='https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white'/>
 	<img src='https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white'/>
-	<img src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'/>
 	<img src='https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white'/>
 </p>
 
