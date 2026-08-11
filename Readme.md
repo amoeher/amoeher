@@ -38,7 +38,7 @@
 ### 🔥 Streak Stats
 <p align="center">
 	<img  style="background:#1a1b27;" src="https://files.gamebanana.com/img/ico/sprays/5b2e2262aafd2.png" alt="sticker" width="200" heigth="200"/>
-	<img src="https://github-readme-streak-stats-vert-sigma.vercel.app?user=amoeher&theme=transparent&hide_border=true&mode=weekly" alt="Yep, It failed to load for some reason, it was meant to be my streak status ^.^"/> 
+	<img src="https://github-stats-extended.vercel.app?user=amoeher&theme=transparent&hide_border=true&mode=weekly" alt="Yep, It failed to load for some reason, it was meant to be my streak status ^.^"/> 
 </p>
 
 <br>
@@ -55,7 +55,7 @@
 <p align="center">
 	<a href="https://github.com/anuraghazra/github-readme-stats">
 		<img alt="PasanSilva99's Github Stats" 
-		     src="https://github-readme-stats-sigma-five.vercel.app/api?username=amoeher&show_icons=true&count_private=true&theme=algolia&hide_border=true" 
+		     src="https://github-stats-extended.vercel.app/api/top-langs?username=amoeher&layout=compact&langs_count=6&theme=transparent" 
 		     height="192px"/>
 	</a>
 	&nbsp;&nbsp;&nbsp;
