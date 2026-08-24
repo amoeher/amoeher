@@ -66,7 +66,7 @@
 	<img src='https://i.pinimg.com/originals/69/1a/78/691a78b4611d3d92bd8877b369cc075f.png' width=180 heigth=180 />
 	&nbsp;&nbsp;&nbsp;
 	<img src="https://githubreadmestatus.vercel.app/api/top-langs?username=amoeher&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true" 
-	     alt="PasanSilva99" 
+	     alt="Amoeher Ren" 
 	     height="192px"/>
 	<br>
 	<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
