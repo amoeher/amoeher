@@ -38,14 +38,14 @@
 ### 🔥 Streak Stats
 <p align="center">
 	<img  style="background:#1a1b27;" src="https://files.gamebanana.com/img/ico/sprays/5b2e2262aafd2.png" alt="sticker" width="200" heigth="200"/>
-	<img src="https://github-readme-streak-stats-vert-sigma.vercel.app?user=amoeher&theme=transparent&hide_border=true&mode=weekly" alt="Yep, It failed to load for some reason, it was meant to be my streak status ^.^"/> 
+	<img src="./profile/streak.svg" alt="Yep, It failed to load for some reason, it was meant to be my streak status ^.^"/> 
 </p>
 
 <br>
 
 ### 🏷️ Holopins
 <p align="center">
-	<img src="https://holopin.me/pasansilva" alt="PasanSIlva99" />
+	<img src="https://holopin.me/pasansilva" alt="Amoeher Ren" />
 </p>
 
 <br>
@@ -53,10 +53,11 @@
 ### 💻 GitHub Profile Stats
 <br/>
 <p align="center">
-	<a href="https://github.com/anuraghazra/github-readme-stats">
-		<img alt="PasanSilva99's Github Stats" 
-		     src="https://github-readme-streak-stats-vert-sigma.vercel.app?username=amoeher&layout=compact&langs_count=6&theme=transparent" 
-		     height="192px"/>
+	<a href="https://github.com/amoeher">
+		<img alt="Amoeher's Github Stats" 
+		     src="https://githubreadmestatus.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=transparent" 
+		     height="192px"
+		     credit="https://github.com/anuraghazra/github-readme-stats"/>
 	</a>
 	&nbsp;&nbsp;&nbsp;
 	<img src='https://github.com/PasanSilva99/PasanSilva99/assets/58817696/0545722b-4b7b-48f9-81b5-8fc585dc609a' width=180 heigth=180 />
@@ -64,7 +65,7 @@
 	<br>
 	<img src='https://i.pinimg.com/originals/69/1a/78/691a78b4611d3d92bd8877b369cc075f.png' width=180 heigth=180 />
 	&nbsp;&nbsp;&nbsp;
-	<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=amoeher&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true" 
+	<img src="https://githubreadmestatus.vercel.app/api/top-langs?username=amoeher&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true" 
 	     alt="PasanSilva99" 
 	     height="192px"/>
 	<br>
