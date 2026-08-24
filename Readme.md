@@ -55,7 +55,7 @@
 <p align="center">
 	<a href="https://github.com/amoeher">
 		<img alt="Amoeher's Github Stats" 
-		     src="https://githubreadmestatus.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=transparent" 
+		     src="https://githubreadmestatus.vercel.app/api?username=amoeher&show_icons=true&include_all_commits=true&theme=transparent" 
 		     height="192px"
 		     credit="https://github.com/anuraghazra/github-readme-stats"/>
 	</a>
