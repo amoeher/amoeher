@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: [Discord](https://discord.com/users/617690320276160512).
 - 💼 Connect Discord: [Amoherom](https://discord.gg/QCwVk9RyWQ).
-- ✉️ Feeling Professional?: [Email](amoeher@gmail.com).
+- ✉️ Feeling Professional?: [Email](mailto:amoeher@gmail.com).
 
    <a href="https://codetime.dev"><img alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=for-the-badge&color=abc7fd&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D33896%26label_color%3Dffb9c1"></a>
 <br>
